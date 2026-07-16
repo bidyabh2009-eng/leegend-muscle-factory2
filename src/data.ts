@@ -9,8 +9,8 @@ import {
 
 export const DIRECTIONS_URL = 'https://maps.app.goo.gl/9y9rA4E4kYc8GvBf7';
 export const MAPS_EMBED_URL = 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3742.062402377546!2d85.84365737583652!3d20.2977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a190a213e432a93%3A0x6b4fd4ef4d6a6b4a!2sLeegend%20Muscle%20Factory!5e0!3m2!1sen!2sin!4v1721100000000!5m2!1sen!2sin';
-export const WHATSAPP_URL = 'https://wa.me/919437153123';
-export const PHONE_DISPLAY = '+91 94371 53123';
+export const WHATSAPP_URL = 'https://wa.me/919583454899';
+export const PHONE_DISPLAY = '+91 +91 95834 54899';
 export const INSTAGRAM_URL = 'https://instagram.com/leegend_muscle_factory';
 
 export const NAV_LINKS = [
