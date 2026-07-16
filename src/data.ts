@@ -80,27 +80,27 @@ export const TESTIMONIALS = [
 
 export const GALLERY_IMAGES = [
   {
-    src: '/images/55.jpg',
+    src: 'images/55.jpg',
     alt: 'Heavy duty leg press and squats section at Leegend Muscle Factory',
     span: 'col-span-2 row-span-2',
   },
   {
-    src: '/images/33.jpg',
+    src: 'images/33.jpg',
     alt: 'Dumbbell racks and benches area inside the gym floor',
     span: 'col-span-1 row-span-1',
   },
   {
-    src: '/images/44.jpg',
+    src: 'images/44.jpg',
     alt: 'Treadmills and cardio section with neon ambient lights',
     span: 'col-span-1 row-span-1',
   },
   {
-    src: '/images/66.webp',
+    src: 'images/66.webp',
     alt: 'Cable crossovers and pull-down machine stations',
     span: 'col-span-1 row-span-2',
   },
   {
-    src: '/images/77.jpg',
+    src: 'images/77.jpg',
     alt: 'Functional training area with resistance bands and medicine balls',
     span: 'col-span-1 row-span-1',
   },
