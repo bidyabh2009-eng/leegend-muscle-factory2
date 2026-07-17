@@ -75,7 +75,7 @@ function Navbar() {
           <a href="#home" className="flex items-center group">
             <div className="relative p-0.5 bg-lime rounded-full shadow-[0_0_15px_rgba(163,230,53,0.35)] transition-transform group-hover:scale-105">
               <img
-                src="/images/WhatsApp_Image_2026-07-12_at_1.59.20_AM.jpeg"
+                src="images/WhatsApp_Image_2026-07-12_at_1.59.20_AM.jpeg"
                 alt="Leegend Muscle Factory logo"
                 className="h-11 lg:h-13 w-auto rounded-full"
               />
@@ -157,7 +157,7 @@ function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="/images/55.jpg"
+          src="images/55.jpg"
           alt="Dark gym weight room with barbells and equipment at Leegend Muscle Factory"
           className="w-full h-full object-cover scale-[1.03] filter brightness-95"
         />
@@ -292,7 +292,7 @@ function About() {
             
             <div className="relative aspect-[4/3] rounded-xl overflow-hidden border border-charcoal-border bg-charcoal">
               <img
-                src="/images/44.jpg"
+                src="images/44.jpg"
                 alt="Interior of Leegend Muscle Factory gym with weight racks and equipment"
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
               />
@@ -892,7 +892,7 @@ function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <img
-                src="/images/WhatsApp_Image_2026-07-12_at_1.59.20_AM.jpeg"
+                src="images/WhatsApp_Image_2026-07-12_at_1.59.20_AM.jpeg"
                 alt="Leegend Muscle Factory logo"
                 className="h-16 w-auto rounded-full border-2 border-lime shadow-[0_0_10px_rgba(163,230,53,0.3)]"
               />
